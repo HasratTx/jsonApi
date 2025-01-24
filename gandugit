@@ -1,0 +1,14 @@
+[
+    {"CustomerID": 1, "Name": "Alice", "Email": "alice@example.com", "Age": 25, "Region": "North"},
+    {"CustomerID": 2, "Name": "Bob", "Email": "bob@example.com", "Age": 30, "Region": "East"},
+    {"CustomerID": 3, "Name": "Charlie", "Email": "charlie@example.com", "Age": null, "Region": "West"},
+    {"CustomerID": 4, "Name": "David", "Email": "david@example.com", "Age": 35, "Region": "South"},
+    {"CustomerID": 5, "Name": "Eva", "Email": null, "Age": 28, "Region": "North"},
+    {"CustomerID": 6, "Name": "Frank", "Email": "frank@example.com", "Age": 40, "Region": null},
+    {"CustomerID": 7, "Name": "Grace", "Email": "grace@example.com", "Age": 32, "Region": "East"},
+    {"CustomerID": 8, "Name": "Hank", "Email": "hank@example.com", "Age": 27, "Region": "West"},
+    {"CustomerID": 9, "Name": null, "Email": "ivy@example.com", "Age": 29, "Region": "South"},
+    {"CustomerID": 10, "Name": "Jack", "Email": "jack@example.com", "Age": 31, "Region": "North"},
+    {"CustomerID": 11, "Name": "Kara", "Email": "kara@example.com", "Age": null, "Region": "East"},
+
+]
